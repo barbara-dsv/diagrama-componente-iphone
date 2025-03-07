@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-21" value="&lt;font data-darkreader-inline-bgcolor=&quot;&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3); --darkreader-inline-bgcolor: var(--darkreader-background-ffffff, #181a1b); color: rgb(255, 255, 255); background-color: rgb(255, 255, 255);&quot;&gt;Iphone&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sMQweavt8iw6zoUTRGzT-21" value="&lt;font style=&quot;--darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3); color: rgb(255, 255, 255);&quot;&gt;Iphone&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="140" width="160" height="34" as="geometry">
             <mxRectangle x="334" y="140" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
