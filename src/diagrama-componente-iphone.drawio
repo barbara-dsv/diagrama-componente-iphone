@@ -9,7 +9,7 @@
             <mxPoint x="664.6881765195672" y="594.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6e0c8c40b5770093-58" style="rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="6e0c8c40b5770093-58" style="rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="sMQweavt8iw6zoUTRGzT-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="164" as="sourcePoint" />
             <mxPoint x="130" y="277" as="targetPoint" />
@@ -18,67 +18,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-21" value="&lt;font style=&quot;--darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3); color: rgb(255, 255, 255);&quot;&gt;Iphone&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="140" width="160" height="34" as="geometry">
-            <mxRectangle x="334" y="140" width="80" height="50" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-21">
-          <mxGeometry y="26" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-26" value="ReprodutorMusical" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="140" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-27" value="+ tocar()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-26">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-28" value="+ pausar()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-26">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-29" value="+ selecionarMusica(String musica)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-26">
-          <mxGeometry y="78" width="140" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-30" value="AparelhoTelefonico" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="140" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-31" value="+ ligar(String numero)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-30">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-32" value="+ atender()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-30">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-33" value="+ inicarCorreioVoz()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-30">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-34" value="NavegadorInternet" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="280" width="140" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-35" value="+ exibirPagina(String url)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-34">
-          <mxGeometry y="26" width="140" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-36" value="+ addNovaAba()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-34">
-          <mxGeometry y="60" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-37" value="+ atualizarPagina()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sMQweavt8iw6zoUTRGzT-34">
-          <mxGeometry y="86" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-38" style="rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;exitX=0.427;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.36;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sMQweavt8iw6zoUTRGzT-23" target="sMQweavt8iw6zoUTRGzT-30">
+        <mxCell id="sMQweavt8iw6zoUTRGzT-38" style="rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;exitX=0.427;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.36;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="190" as="sourcePoint" />
-            <mxPoint x="380" y="270" as="targetPoint" />
+            <mxPoint x="398.31999999999994" y="170.82400000000007" as="sourcePoint" />
+            <mxPoint x="400.39999999999986" y="278.284" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="220" />
+              <mxPoint x="400" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sMQweavt8iw6zoUTRGzT-39" style="rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sMQweavt8iw6zoUTRGzT-21">
+        <mxCell id="sMQweavt8iw6zoUTRGzT-39" style="rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="170" as="sourcePoint" />
+            <mxPoint x="470" y="157" as="sourcePoint" />
             <mxPoint x="660" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sMQweavt8iw6zoUTRGzT-40" value="Iphone" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="140" height="52" as="geometry">
+            <mxRectangle x="330" y="120" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMQweavt8iw6zoUTRGzT-46" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; --darkreader-inline-bgcolor: transparent; --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);&quot;&gt;ReprodutorMusical&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); --darkreader-inline-bgcolor: transparent; --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);&quot;&gt;+ tocar()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ pausar()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ selecionarMusica(String musica)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sMQweavt8iw6zoUTRGzT-52" value="" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sMQweavt8iw6zoUTRGzT-55" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;AparelhoTelefonico&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ligar(String numero)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ atender()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ inicarCorreioVoz()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="280" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sMQweavt8iw6zoUTRGzT-56" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;NavegadorInternet&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&amp;nbsp;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); --darkreader-inline-bgcolor: transparent; --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);&quot;&gt;+ exibirPagina(String url)&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;+ addNovaAba()&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ atualizarPagina()&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); --darkreader-inline-bgcolor: transparent; --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
